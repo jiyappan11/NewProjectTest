@@ -1,0 +1,29 @@
+
+git clone https://tfs-glo-apac.visualstudio.com/Ed%20Central%20Projects/_git/Ed%20Central%20Lawnow
+
+
+$ cd Ed%20Central%20Lawnow/
+
+
+$ git status
+
+
+ git checkout -b ConversionScriptsLawnow
+
+
+$ git pull origin ConversionScriptsLawnow
+
+
+ git pull origin ConversionScriptsLawnow
+
+git status
+
+##copy code
+
+$ git add *
+
+git status
+
+git commit -m "Latest Place code Updated"
+
+git push origin ConversionScriptsLawnow
